@@ -2,7 +2,7 @@ import React from 'react'
 
 const DataAdder = () => (
   <>
-    <p>add data</p>
+    <p>Ici, il y aura pleins de données</p>
   </>
 )
 
