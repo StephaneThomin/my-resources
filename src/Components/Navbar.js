@@ -30,7 +30,7 @@ const Navbar = () => {
           >
           Add resource
         </NavLink>
-        <a href="#" className="icon" onClick={ beResponsive }>
+        <a href="/add" className="icon" onClick={ beResponsive }>
           <FontAwesomeIcon icon={ faBars } />
         </a>
     </div>
